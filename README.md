@@ -1,5 +1,20 @@
 # Power BI Project: Python Scripting in Power BI
 
+# Sales and Profit Analysis
+
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: MANDALA MUKESH
+
+**INTERN ID**: CT08SHA
+
+**DOMAIN**: POWER-BI
+
+**DURATION**: 4 WEEKS
+
+**MENTOR**: NEELA SANTHOSH
+
+
 # Project Overview
 
 * This Power BI project demonstrates the integration of Python scripting within Power BI to perform data manipulation and visualization. The script processes the dataset by removing duplicate rows and visualizing the relationship between Age and Weight using a scatter plot.
